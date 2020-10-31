@@ -1,6 +1,5 @@
-# Svelte + Typescript + TailwindCSS + Parcel
+# An search tool for Don't Starve (Together) assets
 
-Minimal boilerplate example of Svelte with Typescript & TailwindCSS using Parcel.
 
 Install packages
 ```bash
